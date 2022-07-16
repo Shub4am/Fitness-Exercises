@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+###
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Fitness Exercises App made in ReactJS
 
-## Available Scripts
+### Project Overview:
 
-In the project directory, you can run:
+Project uses [ExerciseDB](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/) and [Youtube Search and Download](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download/) data provided by [RapidAPI](https://rapidapi.com/hub).
 
-### `npm start`
+Project was taught by JavaScript Mastery's Adrian.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Feel free to ask me anything or make pull requests for project's issues or to improve the application 🥳
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features:
 
-### `npm test`
+- Shows exercises of different muscle groups and uses 2 different APIs
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- You can watch specific exercise or muscle related GIFs or watch a Youtube video.
 
-### `npm run build`
+- It has search functionality
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Pagination with scroll
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation and Usage
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Install React and be sure you have installed all the dependencies and applications to run this project on your system.
 
-### `npm run eject`
+You need to create a free account on [RapidAPI](https://rapidapi.com/) and generate your personal API key.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Clone my repo:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+git clone https://github.com/Shub4am/Fitness-Exercises.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+cd Fitness-Exercises
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+then use the following command in your terminal:
 
-## Learn More
+npm start
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Screenshots:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![1](https://user-images.githubusercontent.com/43783336/179363453-954bd9d7-98a5-46d1-8980-002cf5e6e5e7.PNG)
+![2](https://user-images.githubusercontent.com/43783336/179363461-73bf36fc-60c0-42e7-856e-25677dcac221.PNG)
+![3](https://user-images.githubusercontent.com/43783336/179363464-a157a068-a1fa-4fc1-9648-6b6571f5fd8f.PNG)
 
-### Code Splitting
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Licensed under [MIT](https://choosealicense.com/licenses/mit/)
